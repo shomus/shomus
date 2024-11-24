@@ -2,7 +2,7 @@
 - 👀 I’m interested in minecraft modding, making apps (android/win)
 - 🌱 I’m currently learning java, c#
 - 💞️ I’m looking to collaborate on 
-- 📫 Discord @shomus_jp#3650 Twitter @shoooooooooooomus
+- 📫 Discord @sh2j Twitter @shoooooooooooomus
 
 <!---
 shomus/shomus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
